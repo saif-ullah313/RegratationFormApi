@@ -1,0 +1,6 @@
+@InterviewQuestionsGeneratorProjectApi_HostAddress = http://localhost:5200
+
+GET {{InterviewQuestionsGeneratorProjectApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
